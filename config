@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/sygmoid/Model-5ffc0e7a4408760001443bbe.git
+	fetch = +refs/heads/*:refs/remotes/origin/*

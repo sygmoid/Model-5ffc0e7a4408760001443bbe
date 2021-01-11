@@ -1,0 +1,15 @@
+sample input
+{"text": "the movie wasn't great."}
+
+url
+http://localhost:3000/predict
+
+sample output
+{
+  "sentiment": {
+    "compound": -0.5096, 
+    "neg": 0.523, 
+    "neu": 0.477, 
+    "pos": 0.0
+  }
+}
